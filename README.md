@@ -21,7 +21,6 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 ✅ **Data Preprocessing & Cleaning** – Handle missing values, feature engineering, outlier detection  
 ✅ **Exploratory Data Analysis (EDA)** – RFM analysis, correlation analysis, customer segmentation  
 ✅ **Predictive ML Models** – Implement Logistic Regression, Decision Trees, Random Forest, XGBoost 
-✅ **NLP Sentiment Analysis** – Analyze customer reviews to detect dissatisfaction  
 ✅ **Customer Segmentation** – Apply K-Means & DBSCAN clustering for personalized engagement  
 ✅ **Automated Workflows** – Use Apache Airflow for scheduled data processing  
 ✅ **Interactive Dashboards** – Power BI reports with real-time churn insights  
@@ -34,6 +33,12 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 - 📊 **Data Analysts & BI Developers** creating churn insights & visualizations.  
 - 🛍 **E-commerce Businesses** optimizing customer engagement & retention.  
 - 🚀 **AI/ML Enthusiasts** learning end-to-end machine learning workflows.  
+
+---
+
+### Data Architecture Diagram:  
+
+![Data Architecture Diagram](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Update%20E-commerce%20Customer%20Churn%20Analysis%20%26%20Prediction%20System.drawio.png)
 
 ---
 
@@ -51,6 +56,7 @@ Built with Python, SQL, Apache Airflow, and Power BI, this system automates data
 📌 **Churn Prediction Dashboard** – Tracks churn risk & customer retention trends.  
 📌 **Customer Segmentation Dashboard** – Visualizes high-risk customers & engagement levels.  
 
+![Power BI Dashboard](https://github.com/dataseekho/eccomerce-churn-analysis/blob/main/images/Customer%20Segmentation%20Dashboard%20-%20Power%20BI.png)
 ---
 
 
