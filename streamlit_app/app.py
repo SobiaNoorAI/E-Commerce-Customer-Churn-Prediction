@@ -14,8 +14,8 @@ if uploaded_file:
 
     # Convert Date Columns to DateTime format for proper analysis
     df['invoice_date'] = pd.to_datetime(df['invoice_date'], errors='coerce')
-    df['dob'] = pd.to_datetime(df['dob'], errors='coerce')
-    df['age'] = (pd.Timestamp.now() - df['dob']).dt.days // 365  # Calculate age from Date of Birth
+    #df['dob'] = pd.to_datetime(df['dob'], errors='coerce')
+    #df['age'] = (pd.Timestamp.now() - df['dob']).dt.days // 365  # Calculate age from Date of Birth
     
     # Sidebar Filters for interactive analysis
     st.sidebar.header("Filters")
